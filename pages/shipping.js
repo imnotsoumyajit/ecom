@@ -6,6 +6,8 @@ import CheckoutWizard from "../components/CheckoutWizard";
 import Layout from "../components/Layout";
 import { Store } from "../utils/Store";
 
+//shipping screen
+
 export default function ShippingScreen() {
   const {
     handleSubmit,
